@@ -1,0 +1,50 @@
+{
+  "usuario": 4765,
+  "mais_bem_avaliados_no_treino": [
+    "Brave New World",
+    "A Midsummer Night's Dream",
+    "High Fidelity",
+    "Slaughterhouse-Five",
+    "Our Town"
+  ],
+  "relevantes_no_teste": [
+    "The Glass Menagerie",
+    "The Bad Beginning (A Series of Unfortunate Events, #1)",
+    "Where the Wild Things Are",
+    "Waiting for Godot",
+    "The Sun Also Rises",
+    "The Catcher in the Rye",
+    "Velvet Elvis: Repainting the Christian Faith",
+    "Anna Karenina",
+    "Sex, Drugs, and Cocoa Puffs: A Low Culture Manifesto",
+    "How to Be Good",
+    "The Giving Tree",
+    "The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",
+    "The Irresistible Revolution: Living as an Ordinary Radical",
+    "Macbeth"
+  ],
+  "top10_svd_funk": [
+    "The Divan",
+    "The Revenge of the Baby-Sat",
+    "The Complete Calvin and Hobbes",
+    "The Essential Calvin and Hobbes: A Calvin and Hobbes Treasury",
+    "Homicidal Psycho Jungle Cat: A Calvin and Hobbes Collection",
+    "Attack of the Deranged Mutant Killer Monster Snow Goons",
+    "The Authoritative Calvin and Hobbes: A Calvin and Hobbes Treasury",
+    "The Days Are Just Packed: A Calvin and Hobbes Collection",
+    "The Kindly Ones (The Sandman #9)",
+    "The Hate U Give"
+  ],
+  "top10_als": [
+    "The Lion, the Witch, and the Wardrobe (Chronicles of Narnia, #1)",
+    "The Outsiders",
+    "A Wrinkle in Time (A Wrinkle in Time Quintet, #1)",
+    "Hamlet",
+    "The Magician's Nephew (Chronicles of Narnia, #6)",
+    "Macbeth",
+    "The Crucible",
+    "Lord of the Flies",
+    "Mere Christianity",
+    "The Scarlet Letter"
+  ]
+}

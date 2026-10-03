@@ -1,0 +1,174 @@
+{
+  "n_ratings": 5976479,
+  "n_users": 53424,
+  "n_books": 10000,
+  "duplicates_user_book": 0,
+  "missing_ratings": 0,
+  "sparsity_pct": 98.881,
+  "rating_mean": 3.92,
+  "rating_dist_pct": {
+    "1": 2.08,
+    "2": 6.01,
+    "3": 22.94,
+    "4": 35.79,
+    "5": 33.18
+  },
+  "ratings_per_user": {
+    "min": 19,
+    "median": 111.0,
+    "mean": 111.9,
+    "max": 200,
+    "p25": 96.0,
+    "p75": 128.0
+  },
+  "ratings_per_book": {
+    "min": 8,
+    "median": 248.0,
+    "mean": 597.6,
+    "max": 22806
+  },
+  "share_ratings_top20pct_books": 67.5,
+  "to_read_rows": 912705,
+  "books_missing": {
+    "isbn": 700,
+    "isbn13": 585,
+    "original_publication_year": 21,
+    "original_title": 585,
+    "language_code": 1084
+  },
+  "lang_top": {
+    "eng": 6341,
+    "en-US": 2070,
+    "en-GB": 257,
+    "ara": 64,
+    "en-CA": 58,
+    "fre": 25
+  },
+  "pub_year_median": 2004.0,
+  "n_tags": 34252,
+  "book_tags_rows": 999912,
+  "top10_books": [
+    {
+      "title": "The Hunger Games (The Hunger Games, #1)",
+      "authors": "Suzanne Collins",
+      "n": 22806,
+      "average_rating": 4.34
+    },
+    {
+      "title": "Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",
+      "authors": "J.K. Rowling, Mary GrandPré",
+      "n": 21850,
+      "average_rating": 4.44
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "authors": "Harper Lee",
+      "n": 19088,
+      "average_rating": 4.25
+    },
+    {
+      "title": "Twilight (Twilight, #1)",
+      "authors": "Stephenie Meyer",
+      "n": 16931,
+      "average_rating": 3.57
+    },
+    {
+      "title": "The Great Gatsby",
+      "authors": "F. Scott Fitzgerald",
+      "n": 16604,
+      "average_rating": 3.89
+    },
+    {
+      "title": "Catching Fire (The Hunger Games, #2)",
+      "authors": "Suzanne Collins",
+      "n": 16549,
+      "average_rating": 4.3
+    },
+    {
+      "title": "Mockingjay (The Hunger Games, #3)",
+      "authors": "Suzanne Collins",
+      "n": 15953,
+      "average_rating": 4.03
+    },
+    {
+      "title": "Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",
+      "authors": "J.K. Rowling, Mary GrandPré, Rufus Beck",
+      "n": 15855,
+      "average_rating": 4.53
+    },
+    {
+      "title": "Harry Potter and the Chamber of Secrets (Harry Potter, #2)",
+      "authors": "J.K. Rowling, Mary GrandPré",
+      "n": 15657,
+      "average_rating": 4.37
+    },
+    {
+      "title": "The Hobbit",
+      "authors": "J.R.R. Tolkien",
+      "n": 15558,
+      "average_rating": 4.25
+    }
+  ],
+  "top_tags": [
+    {
+      "tag_name": "to-read",
+      "count": 140718761
+    },
+    {
+      "tag_name": "currently-reading",
+      "count": 7507958
+    },
+    {
+      "tag_name": "favorites",
+      "count": 4503173
+    },
+    {
+      "tag_name": "fiction",
+      "count": 3688819
+    },
+    {
+      "tag_name": "fantasy",
+      "count": 3548157
+    },
+    {
+      "tag_name": "young-adult",
+      "count": 1848306
+    },
+    {
+      "tag_name": "classics",
+      "count": 1756920
+    },
+    {
+      "tag_name": "books-i-own",
+      "count": 1317235
+    },
+    {
+      "tag_name": "romance",
+      "count": 1231926
+    },
+    {
+      "tag_name": "owned",
+      "count": 1224279
+    },
+    {
+      "tag_name": "ya",
+      "count": 898334
+    },
+    {
+      "tag_name": "mystery",
+      "count": 872282
+    },
+    {
+      "tag_name": "non-fiction",
+      "count": 857901
+    },
+    {
+      "tag_name": "historical-fiction",
+      "count": 815421
+    },
+    {
+      "tag_name": "series",
+      "count": 782637
+    }
+  ]
+}
