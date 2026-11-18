@@ -3,7 +3,7 @@
 **Universidade Presbiteriana Mackenzie – Curso de Ciência de Dados**
 **Aluno:** Enzo Enrico Braga Cavalcante (RA 10744145) · **Local/Ano:** Guarulhos – 2026
 
-> 🎬 **Vídeo de apresentação (5 min):** `[COLOCAR LINK DO YOUTUBE]`
+> 🎬 **Vídeo de apresentação (6 min):** `(https://youtu.be/nXz4BzQV8xU)`
 > 📄 **Documentação final:** [docs/Projeto_Aplicado_III_Documento_Final.pdf](docs/Projeto_Aplicado_III_Documento_Final.pdf)
 > 📚 **Guia para bibliotecas:** [docs/GUIA_IMPLANTACAO_BIBLIOTECAS.md](docs/GUIA_IMPLANTACAO_BIBLIOTECAS.md)
 
