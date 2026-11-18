@@ -1,0 +1,117 @@
+[
+  {
+    "usuario": 50477,
+    "gostou": [
+      "Dune (Dune Chronicles #1)",
+      "The Silence of the Lambs  (Hannibal Lecter, #2)",
+      "The Stand",
+      "The Long Walk",
+      "Blood Meridian, or the Evening Redness in the West"
+    ],
+    "relevantes_teste": [
+      "Night Shift",
+      "The Hellbound Heart",
+      "The Gunslinger (The Dark Tower, #1)",
+      "A Princess of Mars (Barsoom, #1)",
+      "The Name of the Rose",
+      "The Shining (The Shining #1)",
+      "Psycho",
+      "A Clockwork Orange"
+    ],
+    "top10": [
+      "Night Shift",
+      "World War Z: An Oral History of the Zombie War",
+      "Cell",
+      "The Dark Half",
+      "Heart-Shaped Box",
+      "Do Androids Dream of Electric Sheep?",
+      "Insomnia",
+      "Bag of Bones",
+      "The Running Man",
+      "Horns"
+    ],
+    "acertos": [
+      "Night Shift",
+      "Do Androids Dream of Electric Sheep?"
+    ]
+  },
+  {
+    "usuario": 33378,
+    "gostou": [
+      "The Enemy (Jack Reacher, #8)",
+      "Magician: Apprentice (The Riftwar Saga, #1)",
+      "Die Trying (Jack Reacher, #2)",
+      "The Gunslinger (The Dark Tower, #1)",
+      "The Hard Way (Jack Reacher, #10)"
+    ],
+    "relevantes_teste": [
+      "I Hope They Serve Beer in Hell (Tucker Max, #1)",
+      "Reliquary (Pendergast, #2)",
+      "A Game of Thrones (A Song of Ice and Fire, #1)",
+      "Wolves of the Calla (The Dark Tower, #5)",
+      "11/22/63",
+      "It",
+      "Brimstone (Pendergast, #5; Diogenes, #1)",
+      "The Halfling's Gem (Forgotten Realms: Icewind Dale, #3; Legend of Drizzt, #6)"
+    ],
+    "top10": [
+      "Prey",
+      "Congo",
+      "Killing Floor (Jack Reacher, #1)",
+      "Reliquary (Pendergast, #2)",
+      "The Andromeda Strain",
+      "Next",
+      "Brimstone (Pendergast, #5; Diogenes, #1)",
+      "Without Fail (Jack Reacher, #6)",
+      "Persuader (Jack Reacher, #7)",
+      "Running Blind (Jack Reacher, #4)"
+    ],
+    "acertos": [
+      "Killing Floor (Jack Reacher, #1)",
+      "Reliquary (Pendergast, #2)",
+      "Brimstone (Pendergast, #5; Diogenes, #1)",
+      "Without Fail (Jack Reacher, #6)",
+      "Persuader (Jack Reacher, #7)",
+      "Running Blind (Jack Reacher, #4)"
+    ]
+  },
+  {
+    "usuario": 36535,
+    "gostou": [
+      "The Lord of the Rings (The Lord of the Rings, #1-3)",
+      "The Never War (Pendragon, #3)",
+      "The Lies of Locke Lamora (Gentleman Bastard, #1)",
+      "The Lost City of Faar (Pendragon, #2)",
+      "The Pilgrims of Rayne (Pendragon, #8)"
+    ],
+    "relevantes_teste": [
+      "Rise of Empire (The Riyria Revelations, #3-4)",
+      "Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",
+      "Kill Shot (Mitch Rapp, #2)",
+      "Harry Potter and the Goblet of Fire (Harry Potter, #4)",
+      "Harry Potter and the Deathly Hallows (Harry Potter, #7)",
+      "Confessor (Sword of Truth, #11)",
+      "Hexed (The Iron Druid Chronicles, #2)",
+      "Plum Island (John Corey, #1)"
+    ],
+    "top10": [
+      "Wizard's First Rule (Sword of Truth, #1)",
+      "The Way of Shadows (Night Angel, #1)",
+      "Storm Front (The Dresden Files, #1)",
+      "Furies of Calderon (Codex Alera, #1)",
+      "The Wise Man's Fear (The Kingkiller Chronicle, #2)",
+      "Cold Days (The Dresden Files, #14)",
+      "Princeps' Fury (Codex Alera, #5)",
+      "Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",
+      "Academ's Fury (Codex Alera, #2)",
+      "Captain's Fury (Codex Alera, #4)"
+    ],
+    "acertos": [
+      "Wizard's First Rule (Sword of Truth, #1)",
+      "The Way of Shadows (Night Angel, #1)",
+      "Storm Front (The Dresden Files, #1)",
+      "The Wise Man's Fear (The Kingkiller Chronicle, #2)",
+      "Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)"
+    ]
+  }
+]

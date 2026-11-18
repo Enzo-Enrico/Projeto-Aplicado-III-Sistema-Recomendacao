@@ -1,0 +1,9 @@
+{
+  "precision@10": 0.2780957735919783,
+  "recall@10": 0.186540637139004,
+  "ndcg@10": 0.31806758206821245,
+  "cobertura_catalogo": 0.392,
+  "popularidade_media_rec": 3143.3736425827,
+  "gini_recomendacoes": 0.8829064447568176,
+  "params": "fatores=256, reg=0.01, alpha=5"
+}

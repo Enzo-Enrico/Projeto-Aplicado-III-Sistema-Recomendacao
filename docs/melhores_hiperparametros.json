@@ -1,0 +1,5 @@
+{
+  "item_knn": "k=20, shrink=50",
+  "puresvd": "fatores=50",
+  "als": "fatores=256, reg=0.01, alpha=10"
+}
